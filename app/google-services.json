@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1037912212991",
+    "project_id": "arquiz-eeda5",
+    "storage_bucket": "arquiz-eeda5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037912212991:android:033d4a04924478642fd3ca",
+        "android_client_info": {
+          "package_name": "com.example.pigeonapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037912212991-v8ocd7m7alqb530umioopadjeb29vr2j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSyxruBq5691kpjKXw-pu8_lioT3Auu3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037912212991-v8ocd7m7alqb530umioopadjeb29vr2j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
